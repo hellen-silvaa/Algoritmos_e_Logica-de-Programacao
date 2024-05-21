@@ -36,3 +36,22 @@ Inicio
   escreval("A funcionaria ", nome, " ganha ", salario:8:2, " e tem ", idade, " anos.")
   
 Fimalgoritmo
+
+------------------------------------------------------------------------------------------------------------------------
+
+#3
+Algoritmo "teste_saida3"
+
+Var 
+  idade : inteiro
+  salario : real 
+  nome : caractere
+
+
+Inicio
+
+  escreval("Bom dia!")
+//pular linha usa escreval
+  escreval
+  escreval ("Boa noite!")
+Fimalgoritmo
