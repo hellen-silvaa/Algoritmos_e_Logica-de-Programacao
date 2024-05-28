@@ -19,4 +19,5 @@ Inicio
     escreval("PERIMETRO = ", perimetro:8:4)
     escreval("DIAGONAL = ", diagonal:8:4)
 
+
 Fimalgoritmo
